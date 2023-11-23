@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/02/56/83/20/240_F_256832070_IN33ShqEDMCdpEfrRLdL7ddsKCArXETf.jpg)
+[![MasterHead](https://ids.ac.id/wp-content/uploads/2022/04/fron-end-developer-1024x555.jpg)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center"> Front-End developer from Azerbaijan</h3>
 
