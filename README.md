@@ -1,12 +1,12 @@
-[![MasterHead](https://flowerart.az/he-removebg.png)
+[![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center">A passionate front-end developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aziz huseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz huseyn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aziz-huseyn-1444b2218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz huseyn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22974201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22974201" height="30" width="40" /></a>
-<a href="https://fb.com/əziz hüseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="əziz hüseyn" height="30" width="40" /></a>
+<a href="https://fb.com/eziz.huseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="əziz hüseyn" height="30" width="40" /></a>
 <a href="https://instagram.com/eziz__huseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eziz__huseyn" height="30" width="40" /></a>
 </p>
 
