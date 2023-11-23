@@ -1,4 +1,4 @@
-[![MasterHead](https://ids.ac.id/wp-content/uploads/2022/04/fron-end-developer-1024x555.jpg)
+[![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/03/Untitled-design-40.png)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center"> Front-End developer from Azerbaijan</h3>
 
