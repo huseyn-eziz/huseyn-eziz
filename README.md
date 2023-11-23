@@ -1,4 +1,4 @@
-[![MasterHead]([https://admin.scale3c.com/api/wp-content/uploads/2019/08/Future-of-Front-End-Development2020.png](https://stock.adobe.com/az/images/developer/315022751))
+[![MasterHead](https://t4.ftcdn.net/jpg/03/15/02/27/240_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center"> Front-End developer from Azerbaijan</h3>
 
