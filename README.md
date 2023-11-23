@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/15/02/27/240_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg)
+[![MasterHead](https://t3.ftcdn.net/jpg/02/56/83/20/240_F_256832070_IN33ShqEDMCdpEfrRLdL7ddsKCArXETf.jpg)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center"> Front-End developer from Azerbaijan</h3>
 
