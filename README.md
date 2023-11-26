@@ -1,4 +1,4 @@
-[![MasterHead](https://dianapps.com/blog/wp-content/uploads/2023/03/Untitled-design-40.png)
+[![MasterHead](https://lemon.io/wp-content/uploads/2023/02/Artboard-15-980x536-optim.jpg)
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3 align="center"> Front-End developer from Azerbaijan</h3>
 
